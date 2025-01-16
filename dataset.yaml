@@ -1,0 +1,4 @@
+train: "C:\\Users\\its4e\\Downloads\\Obj\\yoloobj\\datasets\\images\\train"
+val: "C:\\Users\\its4e\\Downloads\\Obj\\yoloobj\\datasets\\images\\val"  # Use training data for validation, if not available
+nc: 1  # Number of classes (1 for car detection, adjust accordingly)
+names: ['car']  # Class names
